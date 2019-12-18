@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/simply savory/ScreenShotUpdates/Card.png
+image: images/simply savory/ScreenShotUpdates/Landing-square.png
 title: Simply Savory
 permalink: projects/simplysavory
 # All dates must be YYYY-MM-DD format!
